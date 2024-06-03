@@ -15,7 +15,7 @@ Using [Github Desktop](https://desktop.github.com/) can ease the use of git on y
 4. Update the .gitignore file to exclude any mods of config that you don't want your clients to download and potentially be overwritten.
    - These are things like subjective graphical settings etc. Up to the users discretion.
 5. Commit all of your mod changes and additions and push to the remote Github repository.
-6. Setup smarterkipper's MPT-UPDATER to point to this newly created remote repository.
+6. Setup [smarterkipper's MPT-UPDATER](https://github.com/smarterskipper/MPT-UPDATER) to point to this newly created remote repository.
 
 ### Existing install
 1. Don't create a repo based off of this template.
@@ -30,4 +30,4 @@ Using [Github Desktop](https://desktop.github.com/) can ease the use of git on y
 6. Paste in the contents of this template repositorie's .gitignore into your own. Don't forget to save.
 7. Commit these changes. In the changes section you sohuld only see items from the desired folders, `BepInEx/plugins`, `BepInEx/config`, `user/mods`.
 8. Publish this repository to your remote Github repository.
-9. Setup smarterkipper's MPT-UPDATER to point to this newly created remote repository.
+9. Setup [smarterkipper's MPT-UPDATER](https://github.com/smarterskipper/MPT-UPDATER) to point to this newly created remote repository.
