@@ -20,11 +20,11 @@ BepInEx/*
 !BepInEx/config
 
 # BepInEx config ignore list
-BepInEx/config/BepInEx.cfg
-BepInEx/config/FOVFix.cfg
-BepInEx/config/Tyfon.UIFixes.cfg
-BepInEx/config/com.Amanda.Graphics.cfg
-BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
+# BepInEx/config/BepInEx.cfg
+# BepInEx/config/FOVFix.cfg
+# BepInEx/config/Tyfon.UIFixes.cfg
+# BepInEx/config/com.Amanda.Graphics.cfg
+# BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
 
 # mod ignore list
 
