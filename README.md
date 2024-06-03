@@ -1,7 +1,7 @@
 # mpt-updater-template
 This repo serves as a template to easily set up you FIka/MPT directory as a Github repository and leverage [smarterskipper's MPT-Updater](https://github.com/smarterskipper/MPT-UPDATER/blob/main/MPT%20Updater/Program.cs). It contains a gitignore template that is setup to ignore anything other than client mods, server mods, and configs. All of which are configrable vai the gitignore. See the "BepInEx config ignore list" as an example.
 
-At the time of writing this smarterkipper's MPT-UPDATER will delete user/mods, and bepinex/plugins and then place the repo contents, so the ignoring would not give any benefit and in fact could break things especially whne used for mods.
+At the time of writing this [smarterkipper's MPT-UPDATER](https://github.com/smarterskipper/MPT-UPDATER) will delete user/mods, and bepinex/plugins and then place the repo contents, so the ignoring would not give any benefit and in fact could break things especially whne used for mods.
 
 ## Setup
 The ease of setup is highly dependent on whether or not you have an existing installation of SPT/Fika or not. A fresh setup means that you have a blank location that you intend to install SPT and Fika. An existing installation is where you already have SPT and Fika installed.
