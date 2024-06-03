@@ -6,7 +6,7 @@ At the time of writing this smarterkipper's MPT-UPDATER will delete user/mods, a
 ## Setup
 The ease of setup is highly dependent on whether or not you have an existing installation of SPT/Fika or not. A fresh setup means that you have a blank location that you intend to install SPT and Fika. An existing installation is where you already have SPT and Fika installed.
 
-Using Github Desktop can ease the use of git on your local machine, but keep in midn there may be situations where you ahve to run a git command in a teminal especially when configuring an existing installation.
+Using [Github Desktop](https://desktop.github.com/) can ease the use of git on your local machine, but keep in midn there may be situations where you ahve to run a git command in a teminal especially when configuring an existing installation.
 
 ### Fresh install
 1. Create a repo based off of this template. https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
@@ -21,12 +21,12 @@ Using Github Desktop can ease the use of git on your local machine, but keep in 
 1. Don't create a repo based off of this template.
      - Unless you know what you're doing it'll a bit easier to create a local repository copy the gitignore contents and then publish a remote repository.
 2. Create a local repository where the contents are your SPT folder.
-     - In Github Desktop that means when creating the repo name it the same as you SPT install folder. ![image](https://github.com/lukas-gust/MPT-configs/assets/31327300/50f3cde5-b534-420a-832a-f4f780f513bf)
+     - In Github Desktop that means when creating the repo name it the same as you SPT install folder. ![image](https://github.com/lukas-gust/mpt-updater-template/assets/31327300/a07fc1ee-00b4-410d-a4dc-ff6f7390240a)
      - My install is located in D:\MPT
 3. It may take aminute to load, it's probably trying to commit the initial commit but we'll undo it anyways. so wait a few seconds and click outside the dialog box.
 4. If it was able to finish it likely commited an intial commit. We need to undo that so that the gitignore can take effect.
      - Undo the initial commit shown under history.
-5. Add a file called `.gitignore`. you can either do this manually or through Github Desktop via the Repository settings. ![image](https://github.com/lukas-gust/MPT-configs/assets/31327300/e68af0ad-cd08-478c-abcd-64796dc09480).
+5. Add a file called `.gitignore`. you can either do this manually or through Github Desktop via the Repository settings. ![image](https://github.com/lukas-gust/mpt-updater-template/assets/31327300/3f96ca8e-9cb0-4cc7-a6a5-5d8dd2d3d7c7).
 6. Paste in the contents of this template repositorie's .gitignore into your own. Don't forget to save.
 7. Commit these changes. In the changes section you sohuld only see items from the desired folders, `BepInEx/plugins`, `BepInEx/config`, `user/mods`.
 8. Publish this repository to your remote Github repository.
