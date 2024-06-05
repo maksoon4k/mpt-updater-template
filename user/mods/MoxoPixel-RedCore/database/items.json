@@ -1,0 +1,237 @@
+{
+    "rc_01001_MOD2_CHARGE": {
+        "clone": "5f633ff5c444ce7e3c30a006",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/charges/charge_ar15_rainer_arms_avalanche_mod2_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f751486f77447ec5d770c",
+            "Price": 7000
+        },
+        "locales": {
+            "Name": "AR-15 Rainier Arms Avalanche MOD2 charging handle (Red)",
+            "Shortname": "MOD2 Red",
+            "Description": "Avalanche Mod.2 charging handle for AR-15 and compatible systems. Manufactured by Rainer Arms. Modded Red."
+        }
+    },
+    "rc_01002_AR_MP_MAG": {
+        "clone": "5aaa5dfee5b5b000140293d3",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 3113
+        },
+        "locales": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Red)",
+            "Shortname": "PMAG Red",
+            "Description": "30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Modded Red."
+        }
+    },
+    "rc_01003_AR_F1_PGRIP": {
+        "clone": "6113cc78d3a39d50044c065a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/pistolgrips/pistolgrip_ar15_f1_firearms_st2_pc_skeletonized_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f761f86f774094242f1a1",
+            "Price": 15500
+        },
+        "locales": {
+            "Name": "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip (Red)",
+            "Shortname": "F1 Red",
+            "Description": "A lightweight ergonomical pistol grip with finger grooves for AR-15 weapon systems, manufactured by F1 Firearms. Wrapped with paracord for maximum comfort and minimum hand slip. Modded Red."
+        }
+    },
+    "rc_01004_AR_NOVESKE_RECIEVER": {
+        "clone": "5c07a8770db8340023300450",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ar15_noveske_gen3_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 25150
+        },
+        "locales": {
+            "Name": "AR-15 Noveske Gen.3 5.56x45 upper receiver (Red)",
+            "Shortname": "GEN3 Red",
+            "Description": "The Gen.3 modular upper receiver for AR-based weapons, manufactured by Noveske. Fitted with mounts for attaching additional equipment. Modded Red."
+        },
+        "rcCompatibilities": {
+            "mod_handguard": [
+                "rc_01008_AR_STNGR_HANDGUARD"
+            ]
+        }
+    },
+    "rc_01005_COBRA_FGRIP": {
+        "clone": "5c791e872e2216001219c40a",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/foregrips/foregrip_all_strike_industries_cobra_tactical_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f71de86f774093f2ecf13",
+            "Price": 10050
+        },
+        "locales": {
+            "Name": "Strike Industries Cobra Tactical foregrip (Red)",
+            "Shortname": "COBRA Red",
+            "Description": "The Cobra tactical vertical grip integrates the form with functionality. Its hybrid-designed shape works both as a regular foregrip and as a comfortable hand stop when going with the thumb over method. The grip allows you to handle the weapon with the confidence and the organic design enables the operator to manipulate the rifle in a way that's most comfortable at any given moment. Modded Red."
+        }
+    },
+    "rc_01006_M4SDK_SILENCER": {
+        "clone": "638612b607dfed1ccb7206ba",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/silencers/silencer_sdqd_griffin_m4sd_k_silencer_556x45_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f731a86f774093e6cb4f9",
+            "Price": 77000
+        },
+        "locales": {
+            "Name": "AR-15 Griffin Armament M4SD-K 5.56x45 sound suppressor (Red)",
+            "Shortname": "N4SD-K Red",
+            "Description": "The M4SD-K sound suppressor, designed for use with 5.56x45 caliber weapon systems. Can only be installed on the SDQD mounting interface flash hiders. Modded Red."
+        }
+    },
+    "rc_01007_AR_MUR_RECIEVER": {
+        "clone": "59bfe68886f7746004266202",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/recievers/reciever_ar15_vltor_mur-1s_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f764186f77447ec5d7714",
+            "Price": 32679
+        },
+        "locales": {
+            "Name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver (Red)",
+            "Shortname": "MUR-15 Red",
+            "Description": "MUR-1S modular upper receiver for AR-based weapons by Vltor company. Fitted with mount for attaching additional equipment. Modded Red."
+        },
+        "rcCompatibilities": {
+            "mod_handguard": [
+                "rc_01008_AR_STNGR_HANDGUARD"
+            ]
+        }
+    },
+    "rc_01008_AR_STNGR_HANDGUARD": {
+        "clone": "5c6d5d8b2e221644fc630b39",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/handguards/handguard_ar15_stngr_vypr_m_lok_10_inch_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f75e486f77447ec5d7712",
+            "Price": 14500
+        },
+        "locales": {
+            "Name": "AR-15 STNGR VYPR 10 inch M-LOK handguard (Red)",
+            "Shortname": "VYPR Red",
+            "Description": "The VYPR handguard for AR-15 equipped with an M-LOK interface for the installation of additional devices and accessories. Features a lightweight design and increased ventilation. Manufactured by STNGR. Modded Red."
+        }
+    },
+    "rc_01009_VUDU_SCOPE": {
+        "clone": "5b3b99475acfc432ff4dcbee",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/scopes/scope_30mm_eotech_vudu_1_6x24_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f748386f774093e6cb501",
+            "Price": 44344
+        },
+        "locales": {
+            "Name": "EOTech Vudu 1-6x24 30mm riflescope (Red)",
+            "Shortname": "VUDU Red",
+            "Description": "The EOTech Vudu 1-6x24 riflescope, equally effective on AR platforms and bolt-action rifles. Its EOTech-style speed ring reticle is designed for fast target engagement at low power, while delivering the resolution and accuracy needed for longer range targets. Modded Red."
+        }
+    },
+    "rc_01010_SBA3_STOCK": {
+        "clone": "628a85ee6b1d481ff772e9d5",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "mods/stocks/stock_ar15_sb_tactical_sba3_red.bundle"
+                }
+            }
+        },
+        "handbook": {
+            "ParentId": "5b5f757486f774093e6cb507",
+            "Price": 8600
+        },
+        "locales": {
+            "Name": "SB Tactical SBA3 brace (Red)",
+            "Shortname": "SBA3 Red",
+            "Description": "The SBA3 Pistol Stabilizing Brace, designed and manufactured by SB Tactical. Installed on AR-15 weapon systems. Modded Red."
+        }
+    },
+    "rc_01011_RED_MASK": {
+        "clone": "5b432b2f5acfc4771e1c6622",
+        "enable": true,
+        "items": {
+            "_props": {
+                "Prefab": {
+                    "path": "equipment/item_equipment_facecover_shatteredmask_red.bundle"
+                },
+                "BackgroundColor": "violet",
+                "Durability": 80,
+                "MaxDurability": 80,
+                "Weight": 0.5,
+                "armorClass": 3
+            }
+        },
+        "handbook": {
+            "ParentId": "5b47574386f77428ca22b32f",
+            "Price": 73000
+        },
+        "locales": {
+            "Name": "Shattered lightweight armored mask (Red)",
+            "Shortname": "Shattered Spec",
+            "Description": "The mask for face protection, reinforced with aramid fibers. Also has a special plating that increase the amount of pressure the mask can take. Battle scarred with blood."
+        }
+    }
+}

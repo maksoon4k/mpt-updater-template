@@ -1,0 +1,388 @@
+{
+	"items": [
+		{
+			"_id": "MT_01001_AR_STANAG_30_GREEN",
+			"_tpl": "MT_01001_AR_STANAG_30_GREEN",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01002_AR_STANAG_30_RED",
+			"_tpl": "MT_01002_AR_STANAG_30_RED",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01003_AR_STANAG_30_BLUE",
+			"_tpl": "MT_01003_AR_STANAG_30_BLUE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01004_AR_STANAG_30_FDE",
+			"_tpl": "MT_01004_AR_STANAG_30_FDE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01005_AR_STANAG_30_BLACK",
+			"_tpl": "MT_01005_AR_STANAG_30_BLACK",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01006_AR_STANAG_30_YELLOW",
+			"_tpl": "MT_01006_AR_STANAG_30_YELLOW",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01007_AR_MAGPUL_30_BLUE",
+			"_tpl": "MT_01007_AR_MAGPUL_30_BLUE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01008_AR_MAGPUL_30_RED",
+			"_tpl": "MT_01008_AR_MAGPUL_30_RED",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01009_AR_MAGPUL_30_YELLOW",
+			"_tpl": "MT_01009_AR_MAGPUL_30_YELLOW",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01010_AR_MAGPUL_30_WHITE",
+			"_tpl": "MT_01010_AR_MAGPUL_30_WHITE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01011_AK_MAGPUL_30_BLUE",
+			"_tpl": "MT_01011_AK_MAGPUL_30_BLUE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01012_AK_MAGPUL_30_RED",
+			"_tpl": "MT_01012_AK_MAGPUL_30_RED",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01013_AK_MAGPUL_30_GREEN",
+			"_tpl": "MT_01013_AK_MAGPUL_30_GREEN",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01014_AK_MAGPUL_30_YELLOW",
+			"_tpl": "MT_01014_AK_MAGPUL_30_YELLOW",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01015_AK_MAGPUL_30_WHITE",
+			"_tpl": "MT_01015_AK_MAGPUL_30_WHITE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01016_AK_6L31_BLUE",
+			"_tpl": "MT_01016_AK_6L31_BLUE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01017_AK_6L31_RED",
+			"_tpl": "MT_01017_AK_6L31_RED",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01018_AK_6L31_GREEN",
+			"_tpl": "MT_01018_AK_6L31_GREEN",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01019_AK_6L31_YELLOW",
+			"_tpl": "MT_01019_AK_6L31_YELLOW",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "MT_01020_AK_6L31_WHITE",
+			"_tpl": "MT_01020_AK_6L31_WHITE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		}
+	],
+	"barter_scheme": {
+		"MT_01001_AR_STANAG_30_GREEN": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01002_AR_STANAG_30_RED": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01003_AR_STANAG_30_BLUE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01004_AR_STANAG_30_FDE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01005_AR_STANAG_30_BLACK": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01006_AR_STANAG_30_YELLOW": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01007_AR_MAGPUL_30_BLUE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01008_AR_MAGPUL_30_RED": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01009_AR_MAGPUL_30_YELLOW": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01010_AR_MAGPUL_30_WHITE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01011_AK_MAGPUL_30_BLUE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01012_AK_MAGPUL_30_RED": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01013_AK_MAGPUL_30_GREEN": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01014_AK_MAGPUL_30_YELLOW": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01015_AK_MAGPUL_30_WHITE": [
+			[
+				{
+					"count": 3200,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01016_AK_6L31_BLUE": [
+			[
+				{
+					"count": 18319,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01017_AK_6L31_RED": [
+			[
+				{
+					"count": 18319,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01018_AK_6L31_GREEN": [
+			[
+				{
+					"count": 18319,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01019_AK_6L31_YELLOW": [
+			[
+				{
+					"count": 18319,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"MT_01020_AK_6L31_WHITE": [
+			[
+				{
+					"count": 18319,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		]
+	},
+	"loyal_level_items": {
+		"MT_01001_AR_STANAG_30_GREEN": 1,
+		"MT_01002_AR_STANAG_30_RED": 1,
+		"MT_01003_AR_STANAG_30_BLUE": 1,
+		"MT_01004_AR_STANAG_30_FDE": 1,
+		"MT_01005_AR_STANAG_30_BLACK": 1,
+		"MT_01006_AR_STANAG_30_YELLOW": 1,
+		"MT_01007_AR_MAGPUL_30_BLUE": 1,
+		"MT_01008_AR_MAGPUL_30_RED": 1,
+		"MT_01009_AR_MAGPUL_30_YELLOW": 1,
+		"MT_01010_AR_MAGPUL_30_WHITE": 1,
+		"MT_01011_AK_MAGPUL_30_BLUE": 1,
+		"MT_01012_AK_MAGPUL_30_RED": 1,
+		"MT_01013_AK_MAGPUL_30_GREEN": 1,
+		"MT_01014_AK_MAGPUL_30_YELLOW": 1,
+		"MT_01015_AK_MAGPUL_30_WHITE": 1,
+		"MT_01016_AK_6L31_BLUE": 1,
+		"MT_01017_AK_6L31_RED": 1,
+		"MT_01018_AK_6L31_GREEN": 1,
+		"MT_01019_AK_6L31_YELLOW": 1,
+		"MT_01020_AK_6L31_WHITE": 1
+	}
+}

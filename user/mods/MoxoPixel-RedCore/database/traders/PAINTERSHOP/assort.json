@@ -1,0 +1,217 @@
+{
+	"items": [
+		{
+			"_id": "rc_01001_MOD2_CHARGE",
+			"_tpl": "rc_01001_MOD2_CHARGE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01002_AR_MP_MAG",
+			"_tpl": "rc_01002_AR_MP_MAG",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01003_AR_F1_PGRIP",
+			"_tpl": "rc_01003_AR_F1_PGRIP",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01004_AR_NOVESKE_RECIEVER",
+			"_tpl": "rc_01004_AR_NOVESKE_RECIEVER",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01005_COBRA_FGRIP",
+			"_tpl": "rc_01005_COBRA_FGRIP",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 8
+			}
+		},
+		{
+			"_id": "rc_01006_M4SDK_SILENCER",
+			"_tpl": "rc_01006_M4SDK_SILENCER",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01007_AR_MUR_RECIEVER",
+			"_tpl": "rc_01007_AR_MUR_RECIEVER",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 8
+			}
+		},
+		{
+			"_id": "rc_01008_AR_STNGR_HANDGUARD",
+			"_tpl": "rc_01008_AR_STNGR_HANDGUARD",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01009_VUDU_SCOPE",
+			"_tpl": "rc_01009_VUDU_SCOPE",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01010_SBA3_STOCK",
+			"_tpl": "rc_01010_SBA3_STOCK",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "rc_01011_RED_MASK",
+			"_tpl": "rc_01011_RED_MASK",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 12
+			}
+		}
+	],
+	"barter_scheme": {
+		"rc_01001_MOD2_CHARGE": [
+			[
+				{
+					"count": 8000,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01002_AR_MP_MAG": [
+			[
+				{
+					"count": 4113,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01003_AR_F1_PGRIP": [
+			[
+				{
+					"count": 17500,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01004_AR_NOVESKE_RECIEVER": [
+			[
+				{
+					"count": 28150,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01005_COBRA_FGRIP": [
+			[
+				{
+					"count": 12050,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01006_M4SDK_SILENCER": [
+			[
+				{
+					"count": 79000,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01007_AR_MUR_RECIEVER": [
+			[
+				{
+					"count": 34679,
+					"_tpl": "5696686a4bdc2da3298b456a"
+				}
+			]
+		],
+		"rc_01008_AR_STNGR_HANDGUARD": [
+			[
+				{
+					"count": 16500,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01009_VUDU_SCOPE": [
+			[
+				{
+					"count": 46344,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01010_SBA3_STOCK": [
+			[
+				{
+					"count": 10600,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"rc_01011_RED_MASK": [
+			[
+				{
+					"count": 69000,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		]
+	},
+	"loyal_level_items": {
+		"rc_01001_MOD2_CHARGE": 1,
+		"rc_01002_AR_MP_MAG": 1,
+		"rc_01003_AR_F1_PGRIP": 1,
+		"rc_01004_AR_NOVESKE_RECIEVER": 1,
+		"rc_01005_COBRA_FGRIP": 1,
+		"rc_01006_M4SDK_SILENCER": 1,
+		"rc_01007_AR_MUR_RECIEVER": 1,
+		"rc_01008_AR_STNGR_HANDGUARD": 1,
+		"rc_01009_VUDU_SCOPE": 1,
+		"rc_01010_SBA3_STOCK": 1,
+		"rc_01011_RED_MASK": 2
+	}
+}

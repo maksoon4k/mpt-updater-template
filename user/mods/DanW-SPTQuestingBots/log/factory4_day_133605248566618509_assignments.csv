@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot5,"Сергей Татаров",36,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","19:52:25","N/A",
+Bot6,"Аскольд Алехин",47,Pending,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #2","1","19:52:25","N/A",
+Bot2,"Богдан Харламов",64,Failed,"1st Floor Office","1st Floor Office: Objective #1","2","19:52:25","19:53:16",
+Bot3,"Shad Mcgann",47,Pending,"Spawn Rush","Spawn Rush: Objective #1","1","19:52:25","N/A",
+Bot3,"Shad Mcgann",47,Active,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","19:53:40","N/A",
+Bot7,"Barton Haner",59,Failed,"Boilers","Boilers: Objective #1","1","19:52:25","19:53:14",
+Bot4,"Карл Манин",66,Pending,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #2","1","19:52:25","N/A",
+Bot4,"Карл Манин",66,Pending,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #1","1","19:52:25","N/A",
+Bot4,"Карл Манин",66,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","2","19:52:25","N/A",

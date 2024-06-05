@@ -1,0 +1,20 @@
+{
+    "5c471c2d2e22164bef5d077f Name": "SVD upper band",
+    "5c471c2d2e22164bef5d077f ShortName": "SVD UB",
+    "5c471c2d2e22164bef5d077f Description": "A standard upper band for SVD sniper rifles and compatibles, allows installation of rear sights.",
+    "5c471ba12e221602b3137d76 Name": "SVD front sight",
+    "5c471ba12e221602b3137d76 ShortName": "SVD FS",
+    "5c471ba12e221602b3137d76 Description": "A standard-issue front sight for SVD sniper rifles, manufactured by Izhmash.",
+    "5c471bd12e221602b4129c3a Name": "SVD dust cover",
+    "5c471bd12e221602b4129c3a ShortName": "SVD",
+    "5c471bd12e221602b4129c3a Description": "A standard-issue dust cover for SVD sniper rifles, manufactured by Izhmash.",
+    "5c471c842e221615214259b5 Name": "SVD gas tube",
+    "5c471c842e221615214259b5 ShortName": "SVD gas",
+    "5c471c842e221615214259b5 Description": "A standard gas tube for SVD sniper rifles. Gas tubes channel the travel direction of gas piston.",
+    "5c471b7e2e2216152006e46c Name": "SVD rear sight",
+    "5c471b7e2e2216152006e46c ShortName": "SVD RS",
+    "5c471b7e2e2216152006e46c Description": "A standard-issue rear sight for the SVD sniper rifle.",
+    "5c471cb32e221602b177afaa Name": "SVD 7.62x54R 22 inch barrel",
+  "5c471cb32e221602b177afaa ShortName": "SVD 22\"",
+  "5c471cb32e221602b177afaa Description": "A 22 inch barrel for SVD sniper rifles chambered in 7.62x54R ammo."
+}
